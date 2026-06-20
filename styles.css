@@ -31,6 +31,13 @@ body{
 
 .note{margin-top:22px;color:var(--muted);font-size:14px}
 
+/* Social buttons */
+.social{display:flex;gap:12px;justify-content:center;margin-bottom:8px}
+.social .social-btn{display:inline-flex;align-items:center;gap:8px;padding:8px 14px;border-radius:999px;text-decoration:none;color:#fff;font-weight:700;font-size:14px}
+.social .facebook{background:linear-gradient(180deg,#1877f2,#0854c7)}
+.social .instagram{background:linear-gradient(45deg,#f58529,#dd2a7b,#8134af)}
+.social .whatsapp{background:linear-gradient(180deg,#25d366,#128c7e)}
+
 @media (max-width:600px){
   .hero{flex-direction:column}
   .logo{width:72px;height:72px}
