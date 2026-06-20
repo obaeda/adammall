@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="Adammall logo">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+  </defs>
+  <rect rx="28" width="160" height="160" fill="url(#g)" />
+  <g transform="translate(20,40)" fill="#fff" font-family="Segoe UI, Roboto, Arial" font-weight="700">
+    <text x="0" y="28" font-size="28">Adammall</text>
+    <text x="0" y="56" font-size="12" opacity="0.9">تحميل التطبيقات بسهولة</text>
+  </g>
+</svg>
